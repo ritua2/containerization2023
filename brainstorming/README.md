@@ -3,9 +3,16 @@ This directory contains the content related to the brainstorming sessions conduc
 Each group has discussions on the following topics and takes notes on the discussions that will then shared with others during the presentation sessions:
 
 1. Opportunities related to the containerization of applications using Docker and Singularity
-   
-2. Challenges related to the containerization of applications using Docker and Singularity
-   
-3. Documentation of usecases on containerization
+    - Are there opportunities for building new tools and best practices?
+    - What are the opportunities for community development?
+    - What are the resources that are needed?
 
-4. Are there any usecases on which support is needed for containerization? If so, please list those with the name and email of the contributor. We will follow-up with those needing help.
+2. Challenges related to the containerization of applications using Docker and Singularity
+
+3. Documentation of use-cases on containerization
+
+4. Are there any use-cases on which support is needed for containerization? If so, please list those with the name and email of the contributor. We will follow-up with those needing help to provide assistance.
+
+5. What are the current best practices around containerization?
+![image](https://github.com/ritua2/containerization2023/assets/22985311/73bf4235-fca0-4236-b7a9-18e7f04889d0)
+
